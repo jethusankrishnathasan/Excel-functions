@@ -1,2 +1,2 @@
 # Excel-functions
-#A showcase of Excel skills through data analysis, filtering and reporting techniques.
+This project utilised various functions within Excel to explore the dataset.
